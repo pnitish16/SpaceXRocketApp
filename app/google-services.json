@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "718659194224",
+    "project_id": "spacexrocketapp",
+    "storage_bucket": "spacexrocketapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718659194224:android:e5877631a1f3ed7027d3b5",
+        "android_client_info": {
+          "package_name": "com.spacex.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718659194224-n2ov7fiflckd4ersoa0c7d7j2bpbr0qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spacex.app",
+            "certificate_hash": "94c3a1a94cdb546477bdd428b8331fee8a2574c4"
+          }
+        },
+        {
+          "client_id": "718659194224-lnapm8400poe9uno1oqbeicn80i2kj33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVqYk81zbUn5GKQyC8FN1XUMCuJl8336E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718659194224-lnapm8400poe9uno1oqbeicn80i2kj33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

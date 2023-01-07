@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpaceXRocketApp</string>
+
+    <string name="rocket_name">Rocket name: %s</string>
+    <string name="rocket_country">Country: %s</string>
+    <string name="engines">No of engines: %d</string>
+    <string name="no_data_found">No data found</string>
+    <string name="active_status">"Active Status : "</string>
+    <string name="cost_per_launch">Cost per launch : %d USD</string>
+    <string name="success_rate_percent">Success Rate : %d&#65130;</string>
+    <string name="description">Description:\n%s </string>
+    <string name="height_in_feet">Height in feet: %.2f feet</string>
+</resources>
